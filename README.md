@@ -6,7 +6,7 @@ Using data from top U.S. colleges, this project analyzes institutional character
 The project combines multiple data science techniques—including clustering, network analysis, and supervised learning—to identify meaningful college types, measure how similar colleges are to each other, and test whether those groups are learnable from the data.
 
 Read the full Medium post here:
-👉 [https://medium.com/p/ad25e5a561fd?postPublishedType=initial]
+👉 [https://medium.com/@kousalyapotti/what-if-college-rankings-are-asking-the-wrong-question-0770a86b33c8]
 
 # Tools Used
 - Python
