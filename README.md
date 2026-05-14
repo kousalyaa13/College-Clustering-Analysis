@@ -1,7 +1,9 @@
-# Clustering Analysis of Top American Colleges
-This project explores how clustering techniques can be used to identify meaningful patterns among colleges in the United States. By analyzing features such as salary outcomes, student population, faculty ratio, and financial aid, the project groups colleges into distinct categories based on their characteristics.
+# Beyond College Rankings: Machine Learning Analysis of U.S. Colleges
+This project explores how data science can help students better understand different types of colleges beyond traditional ranking systems. Instead of asking “Which college is ranked highest?”, this analysis asks a more practical question: Can we better understand different types of colleges using data, instead of relying only on rankings?
 
-Using K-Means clustering and the elbow method, the analysis reveals how colleges naturally cluster into groups that reflect trade-offs between career outcomes, accessibility, and institutional resources. These types of techniques are commonly used in data science to uncover hidden structures in datasets and support decision-making.
+Using data from top U.S. colleges, this project analyzes institutional characteristics such as graduate salary outcomes, student population, faculty ratio, and financial aid coverage to uncover hidden patterns between schools.
+
+The project combines multiple data science techniques—including clustering, network analysis, and supervised learning—to identify meaningful college types, measure how similar colleges are to each other, and test whether those groups are learnable from the data.
 
 Read the full Medium post here:
 👉 [https://medium.com/p/ad25e5a561fd?postPublishedType=initial]
@@ -12,11 +14,25 @@ Read the full Medium post here:
   - numpy
   - matplotlib
   - scikit-learn
+  - networkx
 
-- Libraries for Analysis
-  - StandardScaler (data normalization)
-  - K-Means clustering
-  - Elbow method (inertia analysis)
+# Methods Used
+- Unsupervised Learning
+  - StandardScaler (feature scaling)
+  - K-Means Clustering
+  - Elbow Method
+    
+- Network Analysis
+  - Cosine Similarity
+  - Graph Construction
+  - Degree Centrality
+  - Betweenness Centrality
+ 
+- Supervised Learning
+  - Logistic Regression
+  - Random Forest Classification
+  - Confusion Matrix
+  - Feature Importance Analysis
 
-- Data Sources
+# Data Sources
   - Kaggle dataset: Top American Colleges 2022
