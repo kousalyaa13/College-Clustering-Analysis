@@ -1,0 +1,499 @@
+Id,Label,cluster,state,region,collegeType,medianBaseSalary,totalStudentPop
+Massachusetts Institute of Technology,Massachusetts Institute of Technology,0,MA,Northeast,Private not-for-profit,173700.0,12195
+Stanford University,Stanford University,0,CA,West,Private not-for-profit,173500.0,20961
+"University of California, Berkeley","University of California, Berkeley",0,CA,West,Public,154500.0,45878
+Princeton University,Princeton University,0,NJ,Northeast,Private not-for-profit,167600.0,8532
+Columbia University,Columbia University,0,NY,Northeast,Private not-for-profit,148800.0,33882
+"University of California, Los Angeles","University of California, Los Angeles",2,CA,West,Public,137200.0,46947
+Williams College,Williams College,0,MA,Northeast,Private not-for-profit,152600.0,2307
+Yale University,Yale University,0,CT,Northeast,Private not-for-profit,163700.0,14910
+Duke University,Duke University,0,NC,South,Private not-for-profit,155000.0,17855
+University of Pennsylvania,University of Pennsylvania,0,PA,Northeast,Private not-for-profit,164000.0,30688
+Northwestern University,Northwestern University,0,IL,Midwest,Private not-for-profit,137200.0,25870
+Rice University,Rice University,0,TX,South,Private not-for-profit,148100.0,8005
+Vanderbilt University,Vanderbilt University,0,TN,South,Private not-for-profit,137300.0,13918
+Dartmouth College,Dartmouth College,0,NH,Northeast,Private not-for-profit,161300.0,7171
+Harvard University,Harvard University,0,MA,Northeast,Private not-for-profit,169000.0,41024
+Cornell University,Cornell University,0,NY,Northeast,Private not-for-profit,148200.0,24594
+"University of California, San Diego","University of California, San Diego",0,CA,West,Public,143500.0,40547
+Johns Hopkins University,Johns Hopkins University,0,MD,Northeast,Private not-for-profit,138700.0,34250
+Brown University,Brown University,0,RI,Northeast,Private not-for-profit,153100.0,10807
+University of Chicago,University of Chicago,0,IL,Midwest,Private not-for-profit,136600.0,20413
+University of Southern California,University of Southern California,0,CA,West,Private not-for-profit,139100.0,52376
+Georgetown University,Georgetown University,0,DC,Northeast,Private not-for-profit,156000.0,22720
+"University of California, Davis","University of California, Davis",2,CA,West,Public,134800.0,41236
+Amherst College,Amherst College,0,MA,Northeast,Private not-for-profit,148700.0,1940
+"University of Michigan, Ann Arbor","University of Michigan, Ann Arbor",0,MI,Midwest,Public,129600.0,49530
+University of Florida,University of Florida,2,FL,Southeast,Public,117300.0,58857
+Washington University in St. Louis,Washington University in St. Louis,0,MO,Midwest,Private not-for-profit,136000.0,17893
+"University of North Carolina, Chapel Hill","University of North Carolina, Chapel Hill",0,NC,South,Public,111000.0,32160
+University of Virginia,University of Virginia,0,VA,South,Public,137300.0,29237
+"University of California, Irvine","University of California, Irvine",2,CA,West,Public,137700.0,39059
+Emory University,Emory University,0,GA,South,Private not-for-profit,133400.0,15970
+Tufts University,Tufts University,0,MA,Northeast,Private not-for-profit,145300.0,13458
+"University of Washington, Seattle","University of Washington, Seattle",0,WA,West,Public,126800.0,56554
+"University of Illinois, Urbana-Champaign","University of Illinois, Urbana-Champaign",2,IL,Midwest,Public,131200.0,57324
+Georgia Institute of Technology,Georgia Institute of Technology,0,GA,South,Public,149900.0,43217
+University of Notre Dame,University of Notre Dame,0,IN,Midwest,Private not-for-profit,149600.0,13268
+Wellesley College,Wellesley College,0,MA,Northeast,Private not-for-profit,122600.0,2735
+Swarthmore College,Swarthmore College,0,PA,Northeast,Private not-for-profit,147500.0,1689
+"University of California, Santa Barbara","University of California, Santa Barbara",0,CA,West,Public,136400.0,28096
+"University of Maryland, College Park","University of Maryland, College Park",0,MD,Northeast,Public,124500.0,44404
+William & Mary,William & Mary,0,VA,Northeast,Public,128700.0,9785
+Boston College,Boston College,0,MA,Northeast,Private not-for-profit,132000.0,16502
+"University of Texas, Austin","University of Texas, Austin",0,TX,South,Public,127300.0,54243
+Colgate University,Colgate University,0,NY,Northeast,Private not-for-profit,154400.0,3112
+California Institute of Technology,California Institute of Technology,0,CA,West,Private not-for-profit,164600.0,2319
+Carnegie Mellon University,Carnegie Mellon University,0,PA,Northeast,Private not-for-profit,152500.0,15567
+Claremont McKenna College,Claremont McKenna College,0,CA,West,Private not-for-profit,161700.0,1361
+Bowdoin College,Bowdoin College,0,ME,Northeast,Private not-for-profit,145600.0,1973
+"University of Wisconsin, Madison","University of Wisconsin, Madison",0,WI,Midwest,Public,117100.0,47831
+Wake Forest University,Wake Forest University,0,NC,South,Private not-for-profit,135300.0,9266
+Wesleyan University,Wesleyan University,0,CT,Northeast,Private not-for-profit,143100.0,3599
+"Texas A&M University, College Station","Texas A&M University, College Station",2,TX,South,Public,129900.0,73308
+Hamilton College,Hamilton College,0,NY,Northeast,Private not-for-profit,125900.0,2085
+Boston University,Boston University,0,MA,Northeast,Private not-for-profit,134000.0,42047
+Middlebury College,Middlebury College,0,VT,Northeast,Private not-for-profit,138100.0,4616
+Santa Clara University,Santa Clara University,0,CA,West,Private not-for-profit,157200.0,9509
+Brigham Young University,Brigham Young University,2,UT,West,Private not-for-profit,131700.0,39086
+Purdue University,Purdue University,0,IN,Midwest,Public,119100.0,49027
+Washington and Lee University,Washington and Lee University,0,VA,South,Private not-for-profit,152300.0,2269
+New York University,New York University,0,NY,Northeast,Private not-for-profit,136900.0,58361
+George Washington University,George Washington University,0,DC,Northeast,Private not-for-profit,139600.0,32209
+Trinity College (CT),Trinity College (CT),0,CT,Northeast,Private not-for-profit,131100.0,2372
+San Diego State University,San Diego State University,2,CA,West,Public,114000.0,38336
+University of Georgia,University of Georgia,2,GA,South,Public,113900.0,42941
+"Binghamton University, SUNY","Binghamton University, SUNY",2,NY,Northeast,Public,126900.0,19660
+"CUNY, Baruch College","CUNY, Baruch College",2,NY,Northeast,Public,121000.0,22599
+Florida State University,Florida State University,2,FL,South,Public,105400.0,47836
+"University of Minnesota, Twin Cities","University of Minnesota, Twin Cities",2,MN,Midwest,Public,117400.0,63760
+Davidson College,Davidson College,0,NC,South,Private not-for-profit,134700.0,2022
+"North Carolina State University, Raleigh","North Carolina State University, Raleigh",0,NC,South,Public,119700.0,40537
+Barnard College,Barnard College,0,NY,Northeast,Private not-for-profit,131500.0,2771
+University of Richmond,University of Richmond,0,VA,South,Private not-for-profit,123100.0,4534
+Vassar College,Vassar College,0,NY,Northeast,Private not-for-profit,124800.0,2591
+University of Connecticut,University of Connecticut,2,CT,Northeast,Public,117700.0,29818
+New Jersey Institute of Technology,New Jersey Institute of Technology,1,NJ,Northeast,Public,137600.0,13619
+"California State University, Fullerton","California State University, Fullerton",2,CA,West,Public,110400.0,46245
+Lafayette College,Lafayette College,0,PA,Northeast,Private not-for-profit,144300.0,2701
+University of Miami (FL),University of Miami (FL),0,FL,South,Private not-for-profit,115300.0,19971
+Northeastern University,Northeastern University,2,MA,Northeast,Private not-for-profit,120100.0,30003
+"California State University, Long Beach","California State University, Long Beach",2,CA,West,Public,112500.0,42378
+Michigan State University,Michigan State University,2,MI,Midwest,Public,112300.0,55406
+Virginia Tech,Virginia Tech,0,VA,,Public,128800.0,38350
+Southern Methodist University,Southern Methodist University,0,TX,South,Private not-for-profit,131600.0,12963
+"University of California, Riverside","University of California, Riverside",2,CA,West,Public,121900.0,27507
+Pomona College,Pomona College,0,CA,West,Private not-for-profit,146400.0,1733
+"Stony Brook University, SUNY","Stony Brook University, SUNY",2,NY,Northeast,Public,123800.0,34115
+"University of California, Santa Cruz","University of California, Santa Cruz",2,CA,West,Public,121100.0,20861
+University of Utah,University of Utah,2,UT,West,Public,119300.0,38335
+Bucknell University,Bucknell University,0,PA,Northeast,Private not-for-profit,151800.0,3868
+University at Buffalo,University at Buffalo,2,NY,Northeast,Public,108600.0,35509
+"Indiana University, Bloomington","Indiana University, Bloomington",2,IN,Midwest,Public,110900.0,46441
+Grinnell College,Grinnell College,1,IA,Midwest,Private not-for-profit,126200.0,1754
+Rutgers University,Rutgers University,0,NJ,Northeast,Public,128800.0,56178
+Villanova University,Villanova University,0,PA,Northeast,Private not-for-profit,135600.0,12231
+Bryn Mawr College,Bryn Mawr College,0,PA,Northeast,Private not-for-profit,122600.0,1788
+Colorado College,Colorado College,0,CO,West,Private not-for-profit,112400.0,2332
+University of Rochester,University of Rochester,1,NY,Northeast,Private not-for-profit,131900.0,14171
+"California Polytechnic State University, San Luis Obispo","California Polytechnic State University, San Luis Obispo",0,CA,West,Public,134700.0,22817
+University of Illinois at Chicago,University of Illinois at Chicago,2,IL,Midwest,Public,114700.0,35210
+Loyola Marymount University,Loyola Marymount University,1,CA,West,Private not-for-profit,133800.0,10629
+Bates College,Bates College,0,ME,Northeast,Private not-for-profit,142200.0,1958
+Syracuse University,Syracuse University,2,NY,Northeast,Private not-for-profit,119400.0,38868
+"University of Colorado, Boulder","University of Colorado, Boulder",2,CO,West,Public,125400.0,41826
+Colby College,Colby College,0,ME,Northeast,Private not-for-profit,120700.0,2196
+Haverford College,Haverford College,0,PA,Northeast,Private not-for-profit,147400.0,1392
+Lehigh University,Lehigh University,0,PA,Northeast,Private not-for-profit,152800.0,7445
+Case Western Reserve University,Case Western Reserve University,1,OH,Midwest,Private not-for-profit,135600.0,12298
+San Jose State University,San Jose State University,2,CA,West,Public,124300.0,39442
+University of San Diego,University of San Diego,1,CA,West,Private not-for-profit,126500.0,10181
+Babson College,Babson College,0,MA,Northeast,Private not-for-profit,161700.0,3987
+University of Houston,University of Houston,2,TX,South,Public,115100.0,51217
+Brandeis University,Brandeis University,0,MA,Northeast,Private not-for-profit,136000.0,6403
+Clemson University,Clemson University,2,SC,South,Public,116100.0,28933
+Harvey Mudd College,Harvey Mudd College,0,CA,West,Private not-for-profit,167800.0,1132
+Tulane University,Tulane University,1,LA,South,Private not-for-profit,125600.0,14652
+Louisiana State University,Louisiana State University,2,LA,South,Public,110900.0,34811
+"University of Tennessee, Knoxville","University of Tennessee, Knoxville",2,TN,South,Public,103300.0,32056
+University of South Florida,University of South Florida,2,FL,South,Public,102800.0,60343
+University of Central Florida,University of Central Florida,2,FL,South,Public,99200.0,81082
+Florida International University,Florida International University,2,FL,South,Public,101500.0,73970
+"University of Texas, Dallas","University of Texas, Dallas",2,TX,South,Public,111600.0,32043
+Skidmore College,Skidmore College,0,NY,Northeast,Private not-for-profit,115400.0,2818
+Colorado School of Mines,Colorado School of Mines,1,CO,West,Public,151200.0,7092
+"CUNY, The City College of New York","CUNY, The City College of New York",1,NY,Northeast,Public,107100.0,18546
+"Arizona State University, Tempe","Arizona State University, Tempe",2,AZ,West,Public,111300.0,82880
+Occidental College,Occidental College,0,CA,West,Private not-for-profit,130800.0,2104
+Franklin W Olin College of Engineering,Franklin W Olin College of Engineering,1,MA,Northeast,Private not-for-profit,0.0,421
+"CUNY, Hunter College","CUNY, Hunter College",2,NY,Northeast,Public,103000.0,28072
+Scripps College,Scripps College,0,CA,West,Private not-for-profit,107600.0,1137
+Yeshiva University,Yeshiva University,1,NY,Northeast,Private not-for-profit,143500.0,6174
+University of Arizona,University of Arizona,2,AZ,West,Public,112800.0,49966
+University of Delaware,University of Delaware,2,DE,Northeast,Public,117900.0,26527
+American University,American University,0,DC,Northeast,Private not-for-profit,121800.0,16032
+College of the Holy Cross,College of the Holy Cross,0,MA,Northeast,Private not-for-profit,130900.0,3098
+"University of Maryland, Baltimore County","University of Maryland, Baltimore County",2,MD,Northeast,Public,117600.0,15403
+Auburn University,Auburn University,2,AL,South,Public,114700.0,32840
+University of Iowa,University of Iowa,2,IA,Midwest,Public,114500.0,34495
+Franklin and Marshall College,Franklin and Marshall College,0,PA,Northeast,Private not-for-profit,140800.0,2482
+James Madison University,James Madison University,0,VA,South,Public,115600.0,24039
+George Mason University,George Mason University,2,VA,South,Public,120000.0,49755
+San Francisco State University,San Francisco State University,2,CA,West,Public,109100.0,32541
+"California State Polytechnic University, Pomona","California State Polytechnic University, Pomona",2,CA,West,Public,123800.0,29687
+Texas Christian University,Texas Christian University,1,TX,South,Private not-for-profit,112700.0,11506
+"University of Missouri, Columbia","University of Missouri, Columbia",2,MO,Midwest,Public,112100.0,32916
+University of Denver,University of Denver,1,CO,West,Private not-for-profit,120200.0,15412
+Smith College,Smith College,0,MA,Northeast,Private not-for-profit,117000.0,3277
+"California State University, Los Angeles","California State University, Los Angeles",2,CA,West,Public,103300.0,28607
+"University of Oklahoma, Norman","University of Oklahoma, Norman",2,OK,,Public,109300.0,31445
+Carleton College,Carleton College,0,MN,Midwest,Private not-for-profit,133900.0,2150
+University of Oregon,University of Oregon,2,OR,West,Public,107500.0,24381
+"Rutgers University, Newark","Rutgers University, Newark",2,NJ,Northeast,Public,115500.0,15633
+Texas Tech University,Texas Tech University,2,TX,South,Public,114800.0,41909
+University of Washington Bothell,University of Washington Bothell,0,WA,West,Public,117000.0,7137
+Fordham University,Fordham University,1,NY,Northeast,Private not-for-profit,128500.0,19139
+Cooper Union,Cooper Union,1,NY,Northeast,Private not-for-profit,149400.0,985
+Iowa State University,Iowa State University,2,IA,Midwest,Public,111600.0,35319
+University of the Pacific (CA),University of the Pacific (CA),1,CA,West,Private not-for-profit,119300.0,6840
+Oregon State University,Oregon State University,2,OR,West,Public,113600.0,37586
+Marquette University,Marquette University,1,WI,Midwest,Private not-for-profit,122600.0,12601
+Rhodes College,Rhodes College,1,TN,South,Private not-for-profit,121400.0,2156
+University of South Carolina,University of South Carolina,2,SC,South,Public,98400.0,38526
+Trinity University (TX),Trinity University (TX),1,TX,South,Private not-for-profit,120000.0,2843
+University of Vermont,University of Vermont,1,VT,Northeast,Public,109700.0,15903
+Baylor University,Baylor University,1,TX,South,Private not-for-profit,116500.0,19632
+University of Kansas,University of Kansas,2,KS,Midwest,Public,109100.0,30983
+"California State University, Northridge","California State University, Northridge",2,CA,West,Public,108200.0,42736
+Furman University,Furman University,1,SC,South,Private not-for-profit,111700.0,2919
+Drexel University,Drexel University,1,PA,Northeast,Private not-for-profit,124200.0,27720
+Bentley University,Bentley University,1,MA,Northeast,Private not-for-profit,134400.0,5579
+"California State University, Fresno","California State University, Fresno",2,CA,West,Public,108300.0,26592
+Illinois Institute of Technology,Illinois Institute of Technology,1,IL,Midwest,Private not-for-profit,134400.0,7261
+"CUNY, Queens College","CUNY, Queens College",2,NY,Northeast,Public,105100.0,24126
+Ohio State University,Ohio State University,2,OH,Midwest,Public,109200.0,66017
+Union College (NY),Union College (NY),1,NY,Northeast,Private not-for-profit,140400.0,2220
+University of Tulsa,University of Tulsa,1,OK,South,Private not-for-profit,118100.0,4546
+Kenyon College,Kenyon College,0,OH,Midwest,Private not-for-profit,126500.0,1832
+Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,1,NY,Northeast,Private not-for-profit,148200.0,8256
+Rose-Hulman Institute of Technology,Rose-Hulman Institute of Technology,1,IN,Midwest,Private not-for-profit,151800.0,2067
+Pepperdine University,Pepperdine University,1,CA,West,Private not-for-profit,115000.0,10579
+Fashion Institute of Technology,Fashion Institute of Technology,0,NY,Northeast,Public,116200.0,9869
+Denison University,Denison University,1,OH,Midwest,Private not-for-profit,125300.0,2432
+Dickinson College,Dickinson College,1,PA,Northeast,Private not-for-profit,113000.0,2226
+Kalamazoo College,Kalamazoo College,1,MI,Midwest,Private not-for-profit,112800.0,1510
+University of Nevada-Reno,University of Nevada-Reno,2,NV,West,Public,106900.0,23692
+College of New Jersey,College of New Jersey,0,NJ,Northeast,Public,114200.0,8943
+Elon University,Elon University,2,NC,South,Private not-for-profit,105200.0,7424
+Pitzer College,Pitzer College,0,CA,West,Private not-for-profit,112500.0,1111
+Worcester Polytechnic Institute,Worcester Polytechnic Institute,1,MA,Northeast,Private not-for-profit,151200.0,7654
+University of Arkansas,University of Arkansas,2,AR,South,Public,108700.0,30137
+University of Portland,University of Portland,1,OR,West,Private not-for-profit,117300.0,4766
+Washington State University,Washington State University,2,WA,West,Public,114500.0,35394
+University of Dayton,University of Dayton,1,OH,Midwest,Private not-for-profit,117800.0,12544
+"University of Washington, Tacoma Campus","University of Washington, Tacoma Campus",1,WA,West,Public,100400.0,6304
+Connecticut College,Connecticut College,1,CT,Northeast,Private not-for-profit,120700.0,1928
+Creighton University,Creighton University,1,NE,Midwest,Private not-for-profit,107300.0,10225
+Mount Holyoke College,Mount Holyoke College,1,MA,Northeast,Private not-for-profit,111100.0,2504
+University of San Francisco,University of San Francisco,1,CA,West,Private not-for-profit,123900.0,12171
+"University of Massachusetts, Amherst","University of Massachusetts, Amherst",2,MA,Northeast,Public,114500.0,35781
+Whitman College,Whitman College,1,WA,West,Private not-for-profit,127300.0,1677
+University of Kentucky,University of Kentucky,2,KY,South,Public,104400.0,32756
+DePauw University,DePauw University,1,IN,Midwest,Private not-for-profit,124600.0,1998
+Macalester College,Macalester College,1,MN,Midwest,Private not-for-profit,111900.0,2118
+Saint Louis University,Saint Louis University,1,MO,Midwest,Private not-for-profit,109100.0,14756
+"CUNY, Brooklyn College","CUNY, Brooklyn College",2,NY,Northeast,Public,108000.0,21566
+Temple University,Temple University,2,PA,Northeast,Public,102900.0,42075
+The Citadel,The Citadel,1,SC,South,Public,123400.0,4409
+Oberlin College,Oberlin College,1,OH,Midwest,Private not-for-profit,110600.0,3057
+Rhode Island School of Design,Rhode Island School of Design,0,RI,Northeast,Private not-for-profit,108100.0,2557
+University of Pittsburgh,University of Pittsburgh,2,PA,Northeast,Public,110700.0,35563
+Gettysburg College,Gettysburg College,1,PA,Northeast,Private not-for-profit,127600.0,2638
+"California State University, Sacramento","California State University, Sacramento",2,CA,West,Public,109800.0,35953
+"California State University, Chico","California State University, Chico",2,CA,West,Public,116600.0,18664
+Towson University,Towson University,2,MD,Northeast,Public,103700.0,25370
+"Colorado State University, Fort Collins","Colorado State University, Fort Collins",2,CO,West,Public,108100.0,37806
+University of Cincinnati,University of Cincinnati,2,OH,Midwest,Public,107000.0,46140
+St. Olaf College,St. Olaf College,1,MN,Midwest,Private not-for-profit,116800.0,3149
+Rochester Institute of Technology,Rochester Institute of Technology,1,NY,Northeast,Private not-for-profit,115200.0,18231
+Gonzaga University,Gonzaga University,1,WA,West,Private not-for-profit,122700.0,8397
+Western Washington University,Western Washington University,2,WA,West,Public,112800.0,17883
+Florida Atlantic University,Florida Atlantic University,2,FL,South,Public,99800.0,37930
+"University of Hawaii, Manoa","University of Hawaii, Manoa",2,HI,West,Public,101200.0,20702
+"University of Nebraska, Lincoln","University of Nebraska, Lincoln",2,NE,,Public,109100.0,32498
+California State University-Monterey Bay,California State University-Monterey Bay,2,CA,West,Public,107700.0,8493
+Clarkson University,Clarkson University,1,NY,Northeast,Private not-for-profit,146900.0,4697
+Seattle University,Seattle University,1,WA,West,Private not-for-profit,129000.0,8023
+Stevens Institute of Technology,Stevens Institute of Technology,1,NJ,Northeast,Private not-for-profit,154300.0,8158
+Reed College,Reed College,0,OR,West,Private not-for-profit,125900.0,1562
+Loyola University Chicago,Loyola University Chicago,1,IL,Midwest,Private not-for-profit,113900.0,19692
+Manhattan College,Manhattan College,1,NY,Northeast,Private not-for-profit,139000.0,4322
+"California State University, East Bay","California State University, East Bay",2,CA,West,Public,112100.0,18717
+University of Mississippi,University of Mississippi,2,MS,,Public,97600.0,24309
+Chapman University,Chapman University,1,CA,West,Private not-for-profit,108000.0,10654
+Virginia Commonwealth University,Virginia Commonwealth University,2,VA,South,Public,96100.0,32628
+Missouri University of Science and Technology,Missouri University of Science and Technology,1,MO,Midwest,Public,132000.0,8618
+Michigan Technological University,Michigan Technological University,1,MI,Midwest,Public,124400.0,7786
+"California State University, Stanislaus","California State University, Stanislaus",2,CA,West,Public,103100.0,12213
+Truman State University,Truman State University,1,MO,Midwest,Public,100400.0,5637
+Wheaton College (IL),Wheaton College (IL),1,IL,Midwest,Private not-for-profit,114500.0,3416
+St. Lawrence University,St. Lawrence University,1,NY,Northeast,Private not-for-profit,125300.0,2554
+Miami University (OH),Miami University (OH),2,OH,Midwest,Public,120800.0,21667
+University of Rhode Island,University of Rhode Island,2,RI,Northeast,Public,110800.0,21108
+Fairfield University,Fairfield University,1,CT,Northeast,Private not-for-profit,135300.0,6004
+Drake University,Drake University,1,IA,Midwest,Private not-for-profit,115100.0,5504
+Oklahoma State University,Oklahoma State University,2,OK,South,Public,108800.0,26463
+"Rutgers University, Camden","Rutgers University, Camden",1,NJ,Northeast,Public,105600.0,8113
+Sonoma State University,Sonoma State University,2,CA,West,Public,106900.0,9885
+Seton Hall University,Seton Hall University,1,NJ,Northeast,Private not-for-profit,115200.0,11390
+Utah State University,Utah State University,2,UT,West,Public,109100.0,33055
+"SUNY, Geneseo","SUNY, Geneseo",2,NY,Northeast,Public,105800.0,5724
+St. John's University (NY),St. John's University (NY),1,NY,Northeast,Private not-for-profit,119000.0,23167
+California State University-San Marcos,California State University-San Marcos,2,CA,West,Public,105300.0,16959
+"University of North Carolina, Charlotte","University of North Carolina, Charlotte",2,NC,,Public,101600.0,34715
+"University of Wisconsin, Eau Claire","University of Wisconsin, Eau Claire",2,WI,Midwest,Public,100900.0,12230
+Rowan University,Rowan University,2,NJ,Northeast,Public,102500.0,23231
+Centre College,Centre College,1,KY,South,Private not-for-profit,102300.0,1421
+"California State University, San Bernardino","California State University, San Bernardino",2,CA,West,Public,97400.0,22157
+College of Saint Benedict and Saint John's University,College of Saint Benedict and Saint John's University,1,MN,Midwest,Private not-for-profit,124000.0,1799
+Samford University,Samford University,1,AL,South,Private not-for-profit,97300.0,6127
+Illinois State University,Illinois State University,2,IL,Midwest,Public,104900.0,23141
+SUNY Maritime College,SUNY Maritime College,0,NY,Northeast,Public,164100.0,1860
+University of Saint Thomas (MN),University of Saint Thomas (MN),1,MN,Midwest,Private not-for-profit,123700.0,11063
+Lewis & Clark College,Lewis & Clark College,1,OR,West,Private not-for-profit,109000.0,3554
+University of Louisville,University of Louisville,2,KY,South,Public,95600.0,25451
+Providence College,Providence College,0,RI,Northeast,Private not-for-profit,123500.0,5254
+Ramapo College of New Jersey,Ramapo College of New Jersey,2,NJ,Northeast,Public,110000.0,6913
+"SUNY, College of Environmental Science and Forestry","SUNY, College of Environmental Science and Forestry",1,NY,Northeast,Public,98700.0,2385
+California State University Maritime Academy,California State University Maritime Academy,0,CA,West,Public,139400.0,1016
+Hobart and William Smith Colleges,Hobart and William Smith Colleges,1,NY,Northeast,Private not-for-profit,126500.0,2109
+California Lutheran University,California Lutheran University,1,CA,West,Private not-for-profit,114700.0,4987
+Salisbury University,Salisbury University,1,MD,Northeast,Public,99300.0,9521
+University of North Texas,University of North Texas,2,TX,South,Public,101300.0,45298
+University of Mary Washington,University of Mary Washington,1,VA,South,Public,110000.0,5098
+DePaul University,DePaul University,2,IL,Midwest,Private not-for-profit,116700.0,25937
+Thomas Jefferson University,Thomas Jefferson University,1,PA,Northeast,Private not-for-profit,100000.0,9785
+Kansas State University,Kansas State University,2,KS,Midwest,Public,107400.0,23353
+University of New Hampshire,University of New Hampshire,1,NH,Northeast,Public,111500.0,16001
+University of Alabama,University of Alabama,2,AL,South,Public,103600.0,42096
+Duquesne University,Duquesne University,1,PA,Northeast,Private not-for-profit,103500.0,10187
+"Embry-Riddle Aeronautical University, Daytona Beach","Embry-Riddle Aeronautical University, Daytona Beach",1,FL,South,Private not-for-profit,121200.0,7521
+Pace University,Pace University,1,NY,Northeast,Private not-for-profit,121300.0,15486
+"University at Albany, SUNY","University at Albany, SUNY",2,NY,Northeast,Public,118200.0,20099
+Wofford College,Wofford College,1,SC,South,Private not-for-profit,118900.0,1776
+Ithaca College,Ithaca College,1,NY,Northeast,Private not-for-profit,119300.0,6780
+Montclair State University,Montclair State University,2,NJ,Northeast,Public,109100.0,24101
+College of Charleston,College of Charleston,2,SC,South,Public,94900.0,13062
+Sewanee—University of the South,Sewanee—University of the South,1,TN,South,Private not-for-profit,128700.0,1957
+Butler University,Butler University,1,IN,Midwest,Private not-for-profit,111700.0,5955
+New Mexico Institute of Mining and Technology,New Mexico Institute of Mining and Technology,1,NM,West,Public,133400.0,2123
+Hope College,Hope College,1,MI,Midwest,Private not-for-profit,97300.0,3158
+College of Wooster,College of Wooster,1,OH,Midwest,Private not-for-profit,105800.0,2128
+Gustavus Adolphus College,Gustavus Adolphus College,1,MN,Midwest,Private not-for-profit,113200.0,2611
+"SUNY, Farmingdale State College","SUNY, Farmingdale State College",2,NY,Northeast,Public,104300.0,12841
+"University of Colorado, Denver","University of Colorado, Denver",2,CO,West,Public,105300.0,31796
+Rockhurst University,Rockhurst University,1,MO,Midwest,Private not-for-profit,104900.0,4354
+University of North Florida,University of North Florida,2,FL,South,Public,97500.0,20515
+Saint Mary's College of California,Saint Mary's College of California,1,CA,West,Private not-for-profit,130800.0,4169
+"CUNY, Lehman College","CUNY, Lehman College",2,NY,Northeast,Public,89600.0,19829
+Loyola University Maryland,Loyola University Maryland,1,MD,Northeast,Private not-for-profit,128600.0,5945
+"CUNY, John Jay College of Criminal Justice","CUNY, John Jay College of Criminal Justice",2,NY,Northeast,Public,93600.0,19553
+New School,New School,1,NY,Northeast,Private not-for-profit,115700.0,12046
+Appalachian State University,Appalachian State University,2,NC,South,Public,92900.0,20799
+"University of Houston, Clear Lake","University of Houston, Clear Lake",2,TX,South,Public,105500.0,11134
+"University of Nevada, Las Vegas","University of Nevada, Las Vegas",2,NV,West,Public,99100.0,34979
+Wabash College,Wabash College,1,IN,Midwest,Private not-for-profit,143800.0,871
+Mississippi State University,Mississippi State University,2,MS,South,Public,103200.0,24449
+"California State University, Channel Islands","California State University, Channel Islands",2,CA,West,Public,97600.0,8436
+"University of Texas, Arlington","University of Texas, Arlington",2,TX,South,Public,107300.0,61457
+California State University-Dominguez Hills,California State University-Dominguez Hills,2,CA,West,Public,94900.0,19491
+University of California-Merced,University of California-Merced,1,CA,West,Public,0.0,9268
+Willamette University,Willamette University,1,OR,West,Private not-for-profit,115500.0,2954
+University of Massachusetts Boston,University of Massachusetts Boston,2,MA,Northeast,Public,102700.0,19107
+Hofstra University,Hofstra University,1,NY,Northeast,Private not-for-profit,126400.0,11750
+Saint Joseph's University (PA),Saint Joseph's University (PA),1,PA,Northeast,Private not-for-profit,117400.0,8436
+Ohio Northern University,Ohio Northern University,1,OH,Midwest,Private not-for-profit,111600.0,2996
+Clark University (MA),Clark University (MA),1,MA,Northeast,Private not-for-profit,124300.0,3880
+Bradley University,Bradley University,1,IL,Midwest,Private not-for-profit,116200.0,6377
+Le Moyne College,Le Moyne College,1,NY,Northeast,Private not-for-profit,106700.0,3802
+Azusa Pacific University,Azusa Pacific University,1,CA,West,Private not-for-profit,95600.0,10989
+"University of Puerto Rico, Mayaguez","University of Puerto Rico, Mayaguez",2,PR,South,Public,120500.0,13441
+Kettering University,Kettering University,1,MI,Midwest,Private not-for-profit,138700.0,2670
+University of Puget Sound,University of Puget Sound,1,WA,West,Private not-for-profit,123900.0,2757
+Southwestern University,Southwestern University,1,TX,South,Private not-for-profit,105000.0,1562
+Pennsylvania State University,Pennsylvania State University,2,PA,Northeast,Public,0.0,102826
+Calvin University,Calvin University,1,MI,Midwest,Private not-for-profit,105500.0,4020
+"University of Florida, Online","University of Florida, Online",2,FL,South,Public,0.0,4932
+University of Alabama at Birmingham,University of Alabama at Birmingham,2,AL,South,Public,94900.0,25843
+California State University-Bakersfield,California State University-Bakersfield,2,CA,West,Public,102700.0,12854
+Lake Forest College,Lake Forest College,1,IL,Midwest,Private not-for-profit,119900.0,1723
+"University of Minnesota, Morris","University of Minnesota, Morris",1,MN,Midwest,Public,97200.0,1637
+University of North Dakota,University of North Dakota,2,ND,Midwest,Public,104000.0,17182
+Tennessee Technological University,Tennessee Technological University,1,TN,South,Public,100300.0,11103
+Valparaiso University,Valparaiso University,1,IN,Midwest,Private not-for-profit,110100.0,3808
+"Embry-Riddle Aeronautical University, Prescott","Embry-Riddle Aeronautical University, Prescott",1,AZ,West,Private not-for-profit,135000.0,3114
+Grove City College,Grove City College,1,PA,Northeast,Private not-for-profit,113500.0,2481
+Marist College,Marist College,1,NY,Northeast,Private not-for-profit,112100.0,7645
+Northeastern University Lifelong Learning Network,Northeastern University Lifelong Learning Network,1,MA,Northeast,Private not-for-profit,0.0,14916
+"SUNY, College at New Paltz","SUNY, College at New Paltz",2,NY,Northeast,Public,97300.0,8902
+"University of Nebraska, Omaha","University of Nebraska, Omaha",2,NE,Midwest,Public,96900.0,17913
+The Catholic University of America,The Catholic University of America,1,DC,Northeast,Private not-for-profit,120000.0,6156
+West Virginia University,West Virginia University,2,WV,South,Public,110100.0,30045
+University of Alabama in Huntsville,University of Alabama in Huntsville,1,AL,South,Public,116200.0,11312
+Juniata College,Juniata College,1,PA,Northeast,Private not-for-profit,104400.0,1651
+University of Idaho,University of Idaho,1,ID,West,Public,107900.0,13852
+Lawrence University,Lawrence University,1,WI,Midwest,Private not-for-profit,119000.0,1459
+University of Michigan-Dearborn,University of Michigan-Dearborn,1,MI,Midwest,Public,109700.0,10611
+John Carroll University,John Carroll University,1,OH,Midwest,Private not-for-profit,120400.0,3857
+"University of Missouri, Saint Louis","University of Missouri, Saint Louis",2,MO,Midwest,Public,93100.0,19090
+Maine Maritime Academy,Maine Maritime Academy,1,ME,Northeast,Public,131800.0,1029
+Howard University,Howard University,1,DC,Northeast,Private not-for-profit,115000.0,9831
+Muhlenberg College,Muhlenberg College,1,PA,Northeast,Private not-for-profit,112200.0,2950
+University of Wyoming,University of Wyoming,1,WY,West,Public,105000.0,13616
+University of Massachusetts Lowell,University of Massachusetts Lowell,2,MA,Northeast,Public,122100.0,22192
+Brigham Young University-Idaho,Brigham Young University-Idaho,2,ID,West,Private not-for-profit,111700.0,58767
+Mercer University,Mercer University,1,GA,South,Private not-for-profit,91300.0,9933
+Montana Tech of the University of Montana,Montana Tech of the University of Montana,1,MT,West,Public,113700.0,1944
+Beloit College,Beloit College,1,WI,Midwest,Private not-for-profit,100400.0,1302
+University of St. Thomas (TX),University of St. Thomas (TX),1,TX,South,Private not-for-profit,102800.0,3938
+Washington & Jefferson College,Washington & Jefferson College,1,PA,Northeast,Private not-for-profit,114300.0,1296
+Austin College,Austin College,1,TX,South,Private not-for-profit,103900.0,1326
+SUNY Polytechnic Institute,SUNY Polytechnic Institute,1,NY,Northeast,Public,101400.0,3393
+"University of Wisconsin, La Crosse","University of Wisconsin, La Crosse",2,WI,Midwest,Public,96100.0,11501
+Portland State University,Portland State University,2,OR,West,Public,97800.0,30571
+Loma Linda University,Loma Linda University,1,CA,West,Private not-for-profit,108700.0,5447
+Milwaukee School of Engineering,Milwaukee School of Engineering,1,WI,Midwest,Private not-for-profit,125000.0,2874
+North Dakota State University,North Dakota State University,2,ND,Midwest,Public,108100.0,14384
+"University of Minnesota, Duluth","University of Minnesota, Duluth",2,MN,Midwest,Public,105300.0,11557
+Georgia State University,Georgia State University,2,GA,South,Public,99000.0,41177
+Adelphi University,Adelphi University,1,NY,Northeast,Private not-for-profit,103900.0,9074
+Bryant University,Bryant University,1,RI,Northeast,Private not-for-profit,122800.0,4104
+University of Dallas,University of Dallas,1,TX,South,Private not-for-profit,117000.0,2894
+West Chester University of Pennsylvania,West Chester University of Pennsylvania,2,PA,Northeast,Public,98200.0,19680
+Westminster College (UT),Westminster College (UT),1,UT,West,Private not-for-profit,107000.0,2419
+Cedarville University,Cedarville University,1,OH,Midwest,Private not-for-profit,102300.0,4763
+Pacific Lutheran University,Pacific Lutheran University,1,WA,West,Private not-for-profit,112600.0,3447
+"Indiana University-Purdue University, Indianapolis","Indiana University-Purdue University, Indianapolis",2,IN,Midwest,Public,93500.0,33900
+University of Redlands,University of Redlands,1,CA,West,Private not-for-profit,112600.0,5960
+Oregon Institute of Technology,Oregon Institute of Technology,1,OR,West,Public,111300.0,8065
+Seattle Pacific University,Seattle Pacific University,1,WA,West,Private not-for-profit,114900.0,3920
+College of Saint Benedict,College of Saint Benedict,1,MN,Midwest,Private not-for-profit,104700.0,1789
+University of Missouri-Kansas City,University of Missouri-Kansas City,2,MO,Midwest,Public,97000.0,18894
+Virginia Military Institute,Virginia Military Institute,1,VA,South,Public,135100.0,1740
+Northern Arizona University,Northern Arizona University,2,AZ,West,Public,98200.0,34290
+Wagner College ,Wagner College ,1,NY,Northeast,Private not-for-profit,111100.0,2315
+Rollins College,Rollins College,1,FL,South,Private not-for-profit,101900.0,3363
+Texas State University,Texas State University,2,TX,South,Public,98000.0,42292
+McDaniel College,McDaniel College,1,MD,Northeast,Private not-for-profit,108400.0,3418
+Simmons University,Simmons University,1,MA,Northeast,Private not-for-profit,102500.0,7562
+Hampden-Sydney College,Hampden-Sydney College,1,VA,South,Private not-for-profit,126400.0,1003
+Linfield University,Linfield University,1,OR,West,Private not-for-profit,101600.0,1480
+Saint Anselm College,Saint Anselm College,1,NH,Northeast,Private not-for-profit,120000.0,2063
+University of Texas at San Antonio,University of Texas at San Antonio,2,TX,South,Public,97700.0,36089
+Siena College,Siena College,1,NY,Northeast,Private not-for-profit,116700.0,3498
+"University of North Carolina, Wilmington","University of North Carolina, Wilmington",2,NC,South,Public,90600.0,20367
+SUNY College at Old Westbury,SUNY College at Old Westbury,2,NY,Northeast,Public,99200.0,6331
+Texas Woman's University,Texas Woman's University,2,TX,South,Public,86000.0,19733
+Fairleigh Dickinson University,Fairleigh Dickinson University,1,NJ,Northeast,Private not-for-profit,105200.0,9692
+Florida Gulf Coast University,Florida Gulf Coast University,2,FL,South,Public,89700.0,17114
+Massachusetts Maritime Academy,Massachusetts Maritime Academy,1,MA,Northeast,Public,126800.0,1890
+Oakland University,Oakland University,2,MI,Midwest,Public,102700.0,22230
+Quinnipiac University,Quinnipiac University,1,CT,Northeast,Private not-for-profit,103800.0,11047
+Stonehill College,Stonehill College,1,MA,Northeast,Private not-for-profit,115500.0,2618
+Pratt Institute,Pratt Institute,1,NY,Northeast,Private not-for-profit,113200.0,6418
+Allegheny College,Allegheny College,1,PA,Northeast,Private not-for-profit,112100.0,1843
+Canisius College,Canisius College,1,NY,Northeast,Private not-for-profit,103400.0,3538
+New College of Florida,New College of Florida,1,FL,South,Public,106300.0,747
+Ohio University,Ohio University,2,OH,Midwest,Public,102300.0,31679
+Illinois Wesleyan University,Illinois Wesleyan University,1,IL,Midwest,Private not-for-profit,111300.0,1643
+Drew University,Drew University,1,NJ,Northeast,Private not-for-profit,111900.0,2656
+University of Detroit Mercy,University of Detroit Mercy,1,MI,Midwest,Private not-for-profit,99400.0,5574
+Central Washington University,Central Washington University,2,WA,West,Public,103000.0,14090
+New York Institute of Technology,New York Institute of Technology,1,NY,Northeast,Private not-for-profit,113200.0,8088
+Monmouth University,Monmouth University,1,NJ,Northeast,Private not-for-profit,107700.0,6618
+"University of Texas, El Paso","University of Texas, El Paso",2,TX,South,Public,102200.0,29556
+University of Scranton,University of Scranton,1,PA,Northeast,Private not-for-profit,114800.0,6349
+Point Loma Nazarene University,Point Loma Nazarene University,1,CA,West,Private not-for-profit,100100.0,5372
+University of Baltimore,University of Baltimore,1,MD,Northeast,Public,94000.0,5198
+Iona College,Iona College,1,NY,Northeast,Private not-for-profit,114900.0,4155
+Dominican University of California,Dominican University of California,1,CA,West,Private not-for-profit,95400.0,1980
+Saint Peter's University,Saint Peter's University,1,NJ,Northeast,Private not-for-profit,113000.0,3788
+Susquehanna University,Susquehanna University,1,PA,Northeast,Private not-for-profit,113200.0,2348
+Molloy College,Molloy College,1,NY,Northeast,Private not-for-profit,97500.0,8836
+Christopher Newport University,Christopher Newport University,2,VA,South,Public,97200.0,5058
+Taylor University,Taylor University,1,IN,Midwest,Private not-for-profit,108000.0,2484
+"University of Texas, Rio Grande Valley","University of Texas, Rio Grande Valley",2,TX,South,Public,87300.0,41681
+Grand Valley State University,Grand Valley State University,2,MI,Midwest,Public,91200.0,26993
+Ball State University,Ball State University,2,IN,Midwest,Public,89700.0,25247
+Montana State University,Montana State University,2,MT,West,Public,104300.0,18756
+Lewis University,Lewis University,1,IL,Midwest,Private not-for-profit,97400.0,7612
+Principia College,Principia College,1,IL,Midwest,Private not-for-profit,106100.0,425
+Kennesaw State University,Kennesaw State University,2,GA,South,Public,103900.0,44088
+East Carolina University,East Carolina University,2,NC,South,Public,93100.0,31962
+University of New Mexico,University of New Mexico,2,NM,West,Public,104700.0,25420
+Menlo College,Menlo College,1,CA,West,Private not-for-profit,125000.0,935
+Augustana College,Augustana College,1,IL,Midwest,Private not-for-profit,104400.0,2611
+La Salle University,La Salle University,1,PA,Northeast,Private not-for-profit,116300.0,7082
+Albion College,Albion College,1,MI,Midwest,Private not-for-profit,120300.0,1500
+Louisiana Tech University,Louisiana Tech University,2,LA,South,Public,107300.0,12768
+St. Edward's University,St. Edward's University,1,TX,South,Private not-for-profit,109600.0,4324
+Norwich University,Norwich University,1,VT,Northeast,Private not-for-profit,112200.0,4792
+"CUNY, College of Staten Island","CUNY, College of Staten Island",2,NY,Northeast,Public,105100.0,15464
+Berea College,Berea College,1,KY,South,Private not-for-profit,77300.0,1707
+Central Connecticut State University,Central Connecticut State University,1,CT,Northeast,Public,103000.0,13046
+Stockton University,Stockton University,2,NJ,Northeast,Public,95700.0,11925
+SUNY Cortland,SUNY Cortland,2,NY,Northeast,Public,92200.0,7657
+Hillsdale College,Hillsdale College,1,MI,Midwest,Private not-for-profit,0.0,1685
+University of North Georgia,University of North Georgia,2,GA,South,Public,97200.0,23141
+Wentworth Institute of Technology,Wentworth Institute of Technology,1,MA,Northeast,Private not-for-profit,121600.0,5456
+Mount St. Mary's University (MD),Mount St. Mary's University (MD),1,MD,Northeast,Private not-for-profit,108300.0,2649
+John Brown University,John Brown University,1,AR,South,Private not-for-profit,87800.0,2749
+Brigham Young University-Hawaii,Brigham Young University-Hawaii,2,HI,West,Private not-for-profit,109800.0,3583
+University of Wisconsin-Platteville,University of Wisconsin-Platteville,2,WI,Midwest,Public,106700.0,9403
+"St. John's College, Annapolis","St. John's College, Annapolis",1,MD,Northeast,Private not-for-profit,120300.0,599
+University of Evansville,University of Evansville,1,IN,Midwest,Private not-for-profit,104700.0,2690
+Agnes Scott College,Agnes Scott College,1,GA,South,Private not-for-profit,91500.0,1166
+University of South Dakota,University of South Dakota,2,SD,Midwest,Public,93100.0,12276
+Goucher College,Goucher College,1,MD,Northeast,Private not-for-profit,107100.0,2742
+"Embry-Riddle Aeronautical University, Worldwide","Embry-Riddle Aeronautical University, Worldwide",2,FL,South,Private not-for-profit,100700.0,20829
+New Mexico State University,New Mexico State University,1,NM,West,Public,103500.0,16064
+Wayne State University,Wayne State University,2,MI,Midwest,Public,99000.0,30841
+St. Mary's College of Maryland,St. Mary's College of Maryland,1,MD,Northeast,Public,109900.0,1611
+Saint Vincent College,Saint Vincent College,1,PA,Northeast,Private not-for-profit,103900.0,1878
+"University of New Hampshire, Manchester","University of New Hampshire, Manchester",1,NH,Northeast,Public,94100.0,1592
+Wheaton College (MA),Wheaton College (MA),1,MA,Northeast,Private not-for-profit,107800.0,1807
+Abilene Christian University,Abilene Christian University,1,TX,South,Private not-for-profit,103100.0,6058
+CUNY Graduate School and University Center,CUNY Graduate School and University Center,1,NY,Northeast,Public,0.0,10413
+"SUNY, College at Oneonta","SUNY, College at Oneonta",2,NY,Northeast,Public,96200.0,7907
+Sarah Lawrence College,Sarah Lawrence College,1,NY,Northeast,Private not-for-profit,121800.0,1728
+Hamline University,Hamline University,1,MN,Midwest,Private not-for-profit,110400.0,4597
+Saint Mary's University of Minnesota,Saint Mary's University of Minnesota,1,MN,Midwest,Private not-for-profit,107100.0,6947
+Elizabethtown College,Elizabethtown College,1,PA,Northeast,Private not-for-profit,98700.0,2055
+Christian Brothers University,Christian Brothers University,1,TN,South,Private not-for-profit,107300.0,2296
+Old Dominion University,Old Dominion University,2,VA,South,Public,99200.0,28042
+Ohio Wesleyan University,Ohio Wesleyan University,1,OH,Midwest,Private not-for-profit,115500.0,1695
+Ursinus College,Ursinus College,1,PA,Northeast,Private not-for-profit,123300.0,1492
+South Dakota School of Mines and Technology ,South Dakota School of Mines and Technology ,1,SD,Midwest,Public,123600.0,3056
+Saint Michael's College,Saint Michael's College,1,VT,Northeast,Private not-for-profit,111600.0,2689
+Lipscomb University,Lipscomb University,1,TN,South,Private not-for-profit,93800.0,5876
+St Bonaventure University,St Bonaventure University,1,NY,Northeast,Private not-for-profit,105400.0,2796
+University of Colorado Colorado Springs,University of Colorado Colorado Springs,2,CO,West,Public,105800.0,16715
+Georgia College & State University,Georgia College & State University,1,GA,South,Public,87700.0,8039
+University of Northern Iowa,University of Northern Iowa,2,IA,Midwest,Public,92000.0,12137
+"University of North Carolina, Greensboro","University of North Carolina, Greensboro",2,NC,,Public,83100.0,22487
+Marymount University,Marymount University,1,VA,South,Private not-for-profit,107300.0,3971
+Southern Illinois University Edwardsville,Southern Illinois University Edwardsville,2,IL,Midwest,Public,97100.0,15204
+Sam Houston State University,Sam Houston State University,2,TX,South,Public,98600.0,24116
+Belmont University,Belmont University,1,TN,South,Private not-for-profit,86300.0,9023
+SUNY at Purchase College,SUNY at Purchase College,1,NY,Northeast,Public,102400.0,4677
+The Juilliard School,The Juilliard School,1,NY,Northeast,Private not-for-profit,98100.0,979
+Saint Francis University,Saint Francis University,1,PA,Northeast,Private not-for-profit,96300.0,3822
+College of Idaho,College of Idaho,1,ID,West,Private not-for-profit,113500.0,1149
+Loyola University New Orleans,Loyola University New Orleans,1,LA,South,Private not-for-profit,102300.0,4972
+Xavier University,Xavier University,1,OH,Midwest,Private not-for-profit,104900.0,8079
+The University of Texas of the Permian Basin,The University of Texas of the Permian Basin,1,TX,South,Public,97500.0,8667
+St. Joseph's College (NY),St. Joseph's College (NY),1,NY,Northeast,Private not-for-profit,100900.0,5901
+Moravian University,Moravian University,1,PA,Northeast,Private not-for-profit,109800.0,2961
+Lawrence Technological University,Lawrence Technological University,1,MI,Midwest,Private not-for-profit,119900.0,3163
+Saint Martin's University,Saint Martin's University,1,WA,West,Private not-for-profit,102100.0,1980
+University of Memphis,University of Memphis,2,TN,South,Public,90700.0,25128
